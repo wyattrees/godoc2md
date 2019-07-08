@@ -70,6 +70,7 @@ var (
 		"kebab":       kebabFunc,
 		"bitscape":    bitscapeFunc, //Escape [] for bitbucket confusion
 		"trim_prefix": strings.TrimPrefix,
+		"lower":       strings.ToLower,
 	}
 )
 
